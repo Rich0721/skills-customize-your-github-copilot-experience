@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-python-code",
+      "title": "Testing Python Code with pytest",
+      "description": "Write unit tests with pytest for functions and simple classes, including edge cases and expected failures.",
+      "path": "assignments/testing-python-code",
+      "dueDate": "2026-07-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
